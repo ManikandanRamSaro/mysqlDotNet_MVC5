@@ -1,0 +1,75 @@
+﻿@model IEnumerable<MysqlConnect.Models.Registeration>
+
+@{
+    ViewBag.Title = "View";
+}
+
+<h2>View</h2>
+
+<p>
+    @Html.ActionLink("Create New", "createNew")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.sno)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.userName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.empid)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.mobile)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.email)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.dateofJoin)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.createdDate)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.statuss)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.sno)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.userName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.empid)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.mobile)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.email)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.dateofJoin)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.createdDate)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.statuss)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new {  id=item.sno}) |
+            @Html.ActionLink("Details", "Details", new { id = item.sno }) |
+            @Html.ActionLink("Delete", "Delete", new { id = item.sno })
+        </td>
+    </tr>
+}
+
+</table>

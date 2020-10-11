@@ -1,0 +1,139 @@
+E:\projects\dot net project\Others\MysqlConnect\bin\MysqlConnect.dll.config
+E:\projects\dot net project\Others\MysqlConnect\bin\MysqlConnect.dll
+E:\projects\dot net project\Others\MysqlConnect\bin\MysqlConnect.pdb
+E:\projects\dot net project\Others\MysqlConnect\bin\roslyn\csc.exe
+E:\projects\dot net project\Others\MysqlConnect\bin\roslyn\csc.exe.config
+E:\projects\dot net project\Others\MysqlConnect\bin\roslyn\csc.rsp
+E:\projects\dot net project\Others\MysqlConnect\bin\roslyn\csi.exe
+E:\projects\dot net project\Others\MysqlConnect\bin\roslyn\csi.rsp
+E:\projects\dot net project\Others\MysqlConnect\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\projects\dot net project\Others\MysqlConnect\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\projects\dot net project\Others\MysqlConnect\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\projects\dot net project\Others\MysqlConnect\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\projects\dot net project\Others\MysqlConnect\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\projects\dot net project\Others\MysqlConnect\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\projects\dot net project\Others\MysqlConnect\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\projects\dot net project\Others\MysqlConnect\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\projects\dot net project\Others\MysqlConnect\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\projects\dot net project\Others\MysqlConnect\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\projects\dot net project\Others\MysqlConnect\bin\roslyn\System.AppContext.dll
+E:\projects\dot net project\Others\MysqlConnect\bin\roslyn\System.Collections.Immutable.dll
+E:\projects\dot net project\Others\MysqlConnect\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\projects\dot net project\Others\MysqlConnect\bin\roslyn\System.IO.FileSystem.dll
+E:\projects\dot net project\Others\MysqlConnect\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\projects\dot net project\Others\MysqlConnect\bin\roslyn\System.Reflection.Metadata.dll
+E:\projects\dot net project\Others\MysqlConnect\bin\roslyn\vbc.exe
+E:\projects\dot net project\Others\MysqlConnect\bin\roslyn\vbc.exe.config
+E:\projects\dot net project\Others\MysqlConnect\bin\roslyn\vbc.rsp
+E:\projects\dot net project\Others\MysqlConnect\bin\roslyn\VBCSCompiler.exe
+E:\projects\dot net project\Others\MysqlConnect\bin\roslyn\VBCSCompiler.exe.config
+E:\projects\dot net project\Others\MysqlConnect\bin\BouncyCastle.Crypto.dll
+E:\projects\dot net project\Others\MysqlConnect\bin\Google.Protobuf.dll
+E:\projects\dot net project\Others\MysqlConnect\bin\K4os.Compression.LZ4.dll
+E:\projects\dot net project\Others\MysqlConnect\bin\K4os.Compression.LZ4.Streams.dll
+E:\projects\dot net project\Others\MysqlConnect\bin\K4os.Hash.xxHash.dll
+E:\projects\dot net project\Others\MysqlConnect\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\projects\dot net project\Others\MysqlConnect\bin\Microsoft.Web.Infrastructure.dll
+E:\projects\dot net project\Others\MysqlConnect\bin\MySql.Data.dll
+E:\projects\dot net project\Others\MysqlConnect\bin\Renci.SshNet.dll
+E:\projects\dot net project\Others\MysqlConnect\bin\System.Buffers.dll
+E:\projects\dot net project\Others\MysqlConnect\bin\System.Memory.dll
+E:\projects\dot net project\Others\MysqlConnect\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\projects\dot net project\Others\MysqlConnect\bin\System.Web.Helpers.dll
+E:\projects\dot net project\Others\MysqlConnect\bin\System.Web.Mvc.dll
+E:\projects\dot net project\Others\MysqlConnect\bin\System.Web.Razor.dll
+E:\projects\dot net project\Others\MysqlConnect\bin\System.Web.Webpages.Deployment.dll
+E:\projects\dot net project\Others\MysqlConnect\bin\System.Web.Webpages.dll
+E:\projects\dot net project\Others\MysqlConnect\bin\System.Web.Webpages.Razor.dll
+E:\projects\dot net project\Others\MysqlConnect\bin\Ubiety.Dns.Core.dll
+E:\projects\dot net project\Others\MysqlConnect\bin\Zstandard.Net.dll
+E:\projects\dot net project\Others\MysqlConnect\bin\Google.Protobuf.xml
+E:\projects\dot net project\Others\MysqlConnect\bin\K4os.Compression.LZ4.xml
+E:\projects\dot net project\Others\MysqlConnect\bin\K4os.Compression.LZ4.Streams.xml
+E:\projects\dot net project\Others\MysqlConnect\bin\K4os.Hash.xxHash.xml
+E:\projects\dot net project\Others\MysqlConnect\bin\MySql.Data.xml
+E:\projects\dot net project\Others\MysqlConnect\bin\Renci.SshNet.xml
+E:\projects\dot net project\Others\MysqlConnect\bin\System.Buffers.xml
+E:\projects\dot net project\Others\MysqlConnect\bin\System.Memory.xml
+E:\projects\dot net project\Others\MysqlConnect\bin\System.Runtime.CompilerServices.Unsafe.xml
+E:\projects\dot net project\Others\MysqlConnect\bin\System.Web.Razor.xml
+E:\projects\dot net project\Others\MysqlConnect\bin\System.Web.Webpages.xml
+E:\projects\dot net project\Others\MysqlConnect\bin\System.Web.Webpages.Deployment.xml
+E:\projects\dot net project\Others\MysqlConnect\bin\System.Web.Webpages.Razor.xml
+E:\projects\dot net project\Others\MysqlConnect\bin\System.Web.Helpers.xml
+E:\projects\dot net project\Others\MysqlConnect\bin\System.Web.Mvc.xml
+E:\projects\dot net project\Others\MysqlConnect\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\projects\dot net project\Others\MysqlConnect\obj\Debug\MysqlConnect.csprojAssemblyReference.cache
+E:\projects\dot net project\Others\MysqlConnect\obj\Debug\MysqlConnect.csproj.CopyComplete
+E:\projects\dot net project\Others\MysqlConnect\obj\Debug\MysqlConnect.dll
+E:\projects\dot net project\Others\MysqlConnect\obj\Debug\MysqlConnect.pdb
+D:\Projects\DotNet\MysqlConnect\bin\MysqlConnect.dll.config
+D:\Projects\DotNet\MysqlConnect\bin\MysqlConnect.dll
+D:\Projects\DotNet\MysqlConnect\bin\MysqlConnect.pdb
+D:\Projects\DotNet\MysqlConnect\bin\roslyn\csc.exe
+D:\Projects\DotNet\MysqlConnect\bin\roslyn\csc.exe.config
+D:\Projects\DotNet\MysqlConnect\bin\roslyn\csc.rsp
+D:\Projects\DotNet\MysqlConnect\bin\roslyn\csi.exe
+D:\Projects\DotNet\MysqlConnect\bin\roslyn\csi.rsp
+D:\Projects\DotNet\MysqlConnect\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Projects\DotNet\MysqlConnect\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Projects\DotNet\MysqlConnect\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Projects\DotNet\MysqlConnect\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Projects\DotNet\MysqlConnect\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Projects\DotNet\MysqlConnect\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Projects\DotNet\MysqlConnect\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Projects\DotNet\MysqlConnect\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Projects\DotNet\MysqlConnect\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Projects\DotNet\MysqlConnect\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Projects\DotNet\MysqlConnect\bin\roslyn\System.AppContext.dll
+D:\Projects\DotNet\MysqlConnect\bin\roslyn\System.Collections.Immutable.dll
+D:\Projects\DotNet\MysqlConnect\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Projects\DotNet\MysqlConnect\bin\roslyn\System.IO.FileSystem.dll
+D:\Projects\DotNet\MysqlConnect\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Projects\DotNet\MysqlConnect\bin\roslyn\System.Reflection.Metadata.dll
+D:\Projects\DotNet\MysqlConnect\bin\roslyn\vbc.exe
+D:\Projects\DotNet\MysqlConnect\bin\roslyn\vbc.exe.config
+D:\Projects\DotNet\MysqlConnect\bin\roslyn\vbc.rsp
+D:\Projects\DotNet\MysqlConnect\bin\roslyn\VBCSCompiler.exe
+D:\Projects\DotNet\MysqlConnect\bin\roslyn\VBCSCompiler.exe.config
+D:\Projects\DotNet\MysqlConnect\bin\BouncyCastle.Crypto.dll
+D:\Projects\DotNet\MysqlConnect\bin\Google.Protobuf.dll
+D:\Projects\DotNet\MysqlConnect\bin\K4os.Compression.LZ4.dll
+D:\Projects\DotNet\MysqlConnect\bin\K4os.Compression.LZ4.Streams.dll
+D:\Projects\DotNet\MysqlConnect\bin\K4os.Hash.xxHash.dll
+D:\Projects\DotNet\MysqlConnect\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Projects\DotNet\MysqlConnect\bin\Microsoft.Web.Infrastructure.dll
+D:\Projects\DotNet\MysqlConnect\bin\MySql.Data.dll
+D:\Projects\DotNet\MysqlConnect\bin\Renci.SshNet.dll
+D:\Projects\DotNet\MysqlConnect\bin\System.Buffers.dll
+D:\Projects\DotNet\MysqlConnect\bin\System.Memory.dll
+D:\Projects\DotNet\MysqlConnect\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Projects\DotNet\MysqlConnect\bin\System.Web.Helpers.dll
+D:\Projects\DotNet\MysqlConnect\bin\System.Web.Mvc.dll
+D:\Projects\DotNet\MysqlConnect\bin\System.Web.Razor.dll
+D:\Projects\DotNet\MysqlConnect\bin\System.Web.Webpages.Deployment.dll
+D:\Projects\DotNet\MysqlConnect\bin\System.Web.Webpages.dll
+D:\Projects\DotNet\MysqlConnect\bin\System.Web.Webpages.Razor.dll
+D:\Projects\DotNet\MysqlConnect\bin\Ubiety.Dns.Core.dll
+D:\Projects\DotNet\MysqlConnect\bin\Zstandard.Net.dll
+D:\Projects\DotNet\MysqlConnect\bin\Google.Protobuf.xml
+D:\Projects\DotNet\MysqlConnect\bin\K4os.Compression.LZ4.xml
+D:\Projects\DotNet\MysqlConnect\bin\K4os.Compression.LZ4.Streams.xml
+D:\Projects\DotNet\MysqlConnect\bin\K4os.Hash.xxHash.xml
+D:\Projects\DotNet\MysqlConnect\bin\MySql.Data.xml
+D:\Projects\DotNet\MysqlConnect\bin\Renci.SshNet.xml
+D:\Projects\DotNet\MysqlConnect\bin\System.Buffers.xml
+D:\Projects\DotNet\MysqlConnect\bin\System.Memory.xml
+D:\Projects\DotNet\MysqlConnect\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Projects\DotNet\MysqlConnect\bin\System.Web.Razor.xml
+D:\Projects\DotNet\MysqlConnect\bin\System.Web.Webpages.xml
+D:\Projects\DotNet\MysqlConnect\bin\System.Web.Webpages.Deployment.xml
+D:\Projects\DotNet\MysqlConnect\bin\System.Web.Webpages.Razor.xml
+D:\Projects\DotNet\MysqlConnect\bin\System.Web.Helpers.xml
+D:\Projects\DotNet\MysqlConnect\bin\System.Web.Mvc.xml
+D:\Projects\DotNet\MysqlConnect\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Projects\DotNet\MysqlConnect\obj\Debug\MysqlConnect.csprojAssemblyReference.cache
+D:\Projects\DotNet\MysqlConnect\obj\Debug\MysqlConnect.csproj.CoreCompileInputs.cache
+D:\Projects\DotNet\MysqlConnect\obj\Debug\MysqlConnect.csproj.CopyComplete
+D:\Projects\DotNet\MysqlConnect\obj\Debug\MysqlConnect.dll
+D:\Projects\DotNet\MysqlConnect\obj\Debug\MysqlConnect.pdb
